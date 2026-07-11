@@ -15,3 +15,11 @@ Technologies Used :-
 - MySQL
 - HTML 5
 - Bootstrap (CSS, JS) cdn links
+
+Improvement Needed :-
+- prepared statements
+- Better Structure
+- from validation
+- searching
+- Security Improve
+- More Data management control
