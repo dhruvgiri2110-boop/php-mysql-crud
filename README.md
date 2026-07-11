@@ -8,4 +8,4 @@ In this Project Features are mentioned below:
 - Update/edit Client Button
 - Delete Client Button
 - ID as Primary key and Auto_Increment
-- Automatic ID will start from 1 when, all data will delete.
+- Automatic ID count will start from 1 when, all data will delete.
