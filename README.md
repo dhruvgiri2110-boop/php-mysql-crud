@@ -9,3 +9,9 @@ In this Project Features are mentioned below:
 - Delete Client Button
 - ID as Primary key and Auto_Increment
 - Automatic ID count will start from 1 when, all data will delete.
+
+Technologies Used :-
+- PHP
+- MySQL
+- HTML 5
+- Bootstrap (CSS, JS) cdn links
