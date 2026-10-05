@@ -1,6 +1,7 @@
 <?php
 
-if ( isset($_GET["id"]) ) {
+if ( isset($_GET["id"]) ) 
+{
     $id = $_GET["id"];
 
     $servername = "localhost";
@@ -11,8 +12,9 @@ if ( isset($_GET["id"]) ) {
     //Create connection
     $connection = new mysqli($servername, $username, $password, $databse);
 
+    // perform query for  Delete record as per id
     $sql = "DELETE FROM clients WHERE id=$id";
-    $connection->query($sql);
+    $connection->query($sql);   // performs $sql query in connected database
 }
     header("location: /myshop/index.php");
     exit;
